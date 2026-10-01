@@ -1,0 +1,5 @@
+Objetivo del repositorio
+
+Este repositorio sirve para seguir practicando un flujo de trabajo profesional, similar al que se utiliza en equipos de desarrollo de empresas.
+
+Se practicarán buenas prácticas de Git, como trabajar con ramas, realizar commits claros, revisar cambios mediante pull requests y mantener una documentación ordenada.
